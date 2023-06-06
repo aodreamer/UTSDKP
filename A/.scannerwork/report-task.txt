@@ -1,0 +1,6 @@
+projectKey=UTSDKP
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=UTSDKP
+ceTaskId=AYiPaz3IAA_q3YHeWXJd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYiPaz3IAA_q3YHeWXJd
